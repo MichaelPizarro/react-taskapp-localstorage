@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-taskapp-localstorage/static/css/main.984a0a6e.css",
+    "main.js": "/react-taskapp-localstorage/static/js/main.606e57c2.js",
+    "index.html": "/react-taskapp-localstorage/index.html",
+    "main.984a0a6e.css.map": "/react-taskapp-localstorage/static/css/main.984a0a6e.css.map",
+    "main.606e57c2.js.map": "/react-taskapp-localstorage/static/js/main.606e57c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.984a0a6e.css",
+    "static/js/main.606e57c2.js"
+  ]
+}
